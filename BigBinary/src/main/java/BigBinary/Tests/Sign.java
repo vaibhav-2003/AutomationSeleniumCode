@@ -15,7 +15,7 @@ public class Sign {
 	public WebDriver driver;
 		
 	@Test
-	
+	//test
 	public void application_signup() throws Exception
 	{
 		driver=new ChromeDriver();

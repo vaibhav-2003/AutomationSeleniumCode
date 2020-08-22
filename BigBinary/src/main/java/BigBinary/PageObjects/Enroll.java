@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class Enroll {
-	
+	//test
 	@FindBy(xpath="//strong[contains(text(),'Sign Up')]")
 	public static WebElement Register;
 	
